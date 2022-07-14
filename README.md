@@ -8,8 +8,8 @@ I plan to learn Java/Kotlin to write mobile applications and write a neural netw
 You can also get acquainted with some my projects and projects in which I took part:
 
   * 🎙️ [Jarvis](https://github.com/BobaUbisoft17/Jarvis) - voice assistant
-  * 🤖 [Schedule bot](https://github.com/BobaUbisoft17/Schedule_bot) - bot bot for simplified receipt of the schedule in the social network VK
-  * 🏭 [Persistance](https://github.com/bullbesh/persistence) - bot to attract young people to Severstal
+  * 🤖 [Schedule bot](https://github.com/BobaUbisoft17/Schedule_bot) - VK-bot for simplified receipt of the schedule in the social network VK
+  * 🏭 [Persistance](https://github.com/bullbesh/persistence) - Telegram-bot to attract young people to Severstal
 
 # 🏅 Achievements
 ## In GitHub
