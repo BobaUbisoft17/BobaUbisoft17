@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello,%20there!&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=55&descAlign=63)
 
-# About me 🤓
+# 🤓 About me
 I am a beginner programmer. I mainly write in Python, but I also learn Javascript, Go. 
 
 I plan to learn Java/Kotlin to write mobile applications and write a neural network for text-to-speech synthesis.
